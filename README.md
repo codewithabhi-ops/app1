@@ -1,5 +1,9 @@
 # app1
 
+
+its a simple node app for testing
+yeah you are right but the thing is i am making these changes in order create a conflict error! lets see what happens...
+=======
 its a simple node app for testing!
 so exactly i am doing is testing and docker container deployment practice! 
 means i created this app and build and run a docker container 
